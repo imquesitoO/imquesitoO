@@ -5,8 +5,6 @@
 ### 💻 Systems Engineering Student
 ### 📊 Data Science • Machine Learning • Business Intelligence
 
-<img src="https://komarev.com/ghpvc/?username=imquesitoO&label=Profile%20Views&color=blue&style=for-the-badge" />
-
 </div>
 
 ---
@@ -92,15 +90,17 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/imquesitoO">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="www.linkedin.com/in/valeria-flores-458q">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/imquesitoO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <div align="center">
-
-### ✨ Turning data into decisions and ideas into solutions
 
 </div>
