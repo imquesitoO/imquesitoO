@@ -1,66 +1,106 @@
+<div align="center">
+
 # 👋 Hi, I'm Valeria Flores
 
 ### 💻 Systems Engineering Student
-### 📊 Data Science & Machine Learning Enthusiast
-### 🚀 Power BI | Power Automate | Python
+### 📊 Data Science • Machine Learning • Business Intelligence
+
+<img src="https://komarev.com/ghpvc/?username=imquesitoO&label=Profile%20Views&color=blue&style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🌟 About Me
+## 🌸 About Me
 
-🎓 Systems Engineering student
+🎓 Systems Engineering Student
 
-📈 Interested in:
-- Data Science
-- Machine Learning
-- Business Intelligence
-- Process Automation
-- Software Development
+📊 Passionate about Data Science, Machine Learning and Analytics
 
-🌱 Currently learning:
-- Advanced Python
-- Machine Learning
-- Multi-Agent Systems
-- Data Analytics
-- Cloud Technologies
+⚡ Building dashboards with Power BI and automations with Power Automate
+
+🗄️ Working with SQL, PostgreSQL and Database Design
+
+💡 Interested in Artificial Intelligence and Multi-Agent Systems
+
+🌱 Currently learning advanced Machine Learning and Cloud Technologies
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
+
+<div align="center">
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Data & AI
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### Business Intelligence & Automation
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,cpp" />
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+### 📊 Data & Analytics
+
+- Python
+- Pandas
+- NumPy
+- Power BI
+- Power Automate
+- SharePoint
+- SQL
+- PostgreSQL
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=imquesitoO&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 Multi-Agent System for E-commerce Success Analysis
+| Project | Description |
+|----------|------------|
+| 🛒 E-Commerce Multi-Agent System | Machine Learning and Multi-Agent architecture for retail analytics |
+| 📊 Power BI Dashboard | KPI monitoring, support analytics and business reporting |
+| 🏥 Patient Management System | C++ application with patient prioritization |
+| 🗄️ Database Projects | PostgreSQL, SQL queries, procedures and triggers |
 
-🔹 Technical Support Analytics Dashboard using Power BI
+---
 
-🔹 Patient Management System in C++
+## 🎯 Current Focus
 
-🔹 Database Projects with PostgreSQL and SQL
+- 📊 Data Science
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 📈 Business Intelligence
+- ⚙️ Process Automation
 
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/imquesitoO">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Turning data into decisions and ideas into solutions
+
+</div>
